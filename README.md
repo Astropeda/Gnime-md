@@ -43,7 +43,7 @@
 5.  **Photo Editor Menu.**
 6.  **Ban Protection.**
 7.  **Multi-Device Supported.**
-8.  **315 Commands.**
+8.  **320 Commands.**
 ##
 
 
